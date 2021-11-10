@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @master-sid
 - 👀 I’m interested in ...coding 
-- 🌱 I’m currently learning ... html,css,Java
+- 🌱 I’m currently learning ... html,css,Javascript
 - 💞️ I’m looking to collaborate on ...yes
 - 📫 How to reach me ...pawan.morepenlab@gmail.com
 
