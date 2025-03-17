@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding 
 - 🌱 I’m currently learning ... html,css,Javascript
 - 💞️ I’m looking to collaborate on ...yes
-- 📫 How to reach me ...pawan.morepenlab@gmail.com
+- 📫 How to reach me pawan.morepenlab@gmail.com
 
 <!---
 master-sid/master-sid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
